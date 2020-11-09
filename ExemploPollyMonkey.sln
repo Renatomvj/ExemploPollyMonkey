@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculaFrete", "CalculaFrete\CalculaFrete.csproj", "{47078B46-6B06-4AEB-B779-096341BE61FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce", "Ecommerce\Ecommerce.csproj", "{92B8266F-5876-4ED5-A56E-830B9B88E453}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47078B46-6B06-4AEB-B779-096341BE61FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47078B46-6B06-4AEB-B779-096341BE61FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47078B46-6B06-4AEB-B779-096341BE61FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47078B46-6B06-4AEB-B779-096341BE61FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92B8266F-5876-4ED5-A56E-830B9B88E453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B8266F-5876-4ED5-A56E-830B9B88E453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B8266F-5876-4ED5-A56E-830B9B88E453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B8266F-5876-4ED5-A56E-830B9B88E453}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72066BF2-12E9-49D9-9ED4-872CE880B927}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,42 @@
+﻿
+@model Ecommerce.Models.FreteViewModel
+
+<script>
+
+
+    function myFunction() {
+
+        var peso = document.getElementById("peso").value;
+        var cepOrigem = document.getElementById("cepOrigem").value;
+        var cepDestino = document.getElementById("cepDestino").value;
+
+        $.ajax({
+            type: "GET",
+            url: `/Home/CalcularFrete?peso=${peso}&cepOrigem=${cepOrigem}&cepDestino=${cepDestino}`,
+            contentType: "application/json",
+            dataType: "json",
+            success: function (response) {
+                alert(response)
+            },
+            failure: function (response) {
+                //handle the error
+            }
+        });
+    }
+</script>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+<div> 
+    <label for="peso">Peso</label>
+    <input id="peso" type="number" />
+    <label for="cepOrigem">CepOrigem</label>
+    <input id="cepOrigem" type="text" />
+    <label for="cepDestino">CepDestino</label>
+    <input id="cepDestino" type="text" />
+    <button type="submit" onclick="myFunction()">Calcular</button>
+</div>

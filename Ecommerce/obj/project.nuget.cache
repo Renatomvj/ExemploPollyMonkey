@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cjj8zVSiH17cYW+yfi0wF6XuFVEeiSaFx9h7m7aBwktFVLhabXaZTUAaCJhgTOIPiyRqGEVoM0Y30kM5LkN4xw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Renato Martins\\source\\repos\\ExemploPollyMonkey\\Ecommerce\\Ecommerce.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Renato Martins\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.9\\microsoft.extensions.configuration.3.1.9.nupkg.sha512",
+    "C:\\Users\\Renato Martins\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.9\\microsoft.extensions.configuration.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\Renato Martins\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.9\\microsoft.extensions.configuration.binder.3.1.9.nupkg.sha512",
+    "C:\\Users\\Renato Martins\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.9\\microsoft.extensions.dependencyinjection.3.1.9.nupkg.sha512",
+    "C:\\Users\\Renato Martins\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.9\\microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\Renato Martins\\.nuget\\packages\\microsoft.extensions.http\\3.1.9\\microsoft.extensions.http.3.1.9.nupkg.sha512",
+    "C:\\Users\\Renato Martins\\.nuget\\packages\\microsoft.extensions.http.polly\\3.1.9\\microsoft.extensions.http.polly.3.1.9.nupkg.sha512",
+    "C:\\Users\\Renato Martins\\.nuget\\packages\\microsoft.extensions.logging\\3.1.9\\microsoft.extensions.logging.3.1.9.nupkg.sha512",
+    "C:\\Users\\Renato Martins\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.9\\microsoft.extensions.logging.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\Renato Martins\\.nuget\\packages\\microsoft.extensions.options\\3.1.9\\microsoft.extensions.options.3.1.9.nupkg.sha512",
+    "C:\\Users\\Renato Martins\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512",
+    "C:\\Users\\Renato Martins\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Renato Martins\\.nuget\\packages\\polly\\7.2.1\\polly.7.2.1.nupkg.sha512",
+    "C:\\Users\\Renato Martins\\.nuget\\packages\\polly.contrib.simmy\\0.3.0\\polly.contrib.simmy.0.3.0.nupkg.sha512",
+    "C:\\Users\\Renato Martins\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
